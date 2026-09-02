@@ -24,8 +24,17 @@ Atendimento).
 - Estrutura hierárquica de categorização usada em relatórios, filtros e kits.
 
 ### Ficha técnica / Composição (engenharia de cardápio)
+- Também chamada de **"redutores"** na operação: os insumos da composição
+  são os itens que **reduzem (dão baixa) o estoque** quando o produto
+  composto é vendido.
+- Caminho: Cadastro de Produto → aba **Produção** → marcar **"Produto
+  Composto"** → menu **"Composição Produto"** → informar o produto composto
+  e adicionar insumos/quantidades.
 - Composição detalhada de produtos compostos: insumos e quantidades por
   unidade do produto final.
+- Rotina **"Atualizar Custo de Produto Composto"** recalcula o custo a
+  partir dos insumos; **Cadastro Terminais x Estoque** define de qual
+  estoque cada terminal dá baixa.
 - Base do **CMV teórico** e da baixa automática de estoque na venda.
 - Manutenção individual ("Consultar/Adicionar/Remover Composição do
   Produto") ou em massa via **importação de planilha de composições**.

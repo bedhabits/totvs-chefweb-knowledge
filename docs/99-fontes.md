@@ -46,6 +46,8 @@ divergência, vale o TDN (documentação oficial TOTVS).
 - Cadastro de Produto: https://centraldeatendimento.totvs.com/hc/pt-br/articles/360027460472
 - Cadastro de Fornecedor: https://centraldeatendimento.totvs.com/hc/pt-br/articles/360047981773
 - Composição do Produto (ficha técnica): https://centraldeatendimento.totvs.com/hc/pt-br/articles/360044229633
+- Atualizar Custo de Produto Composto: https://centraldeatendimento.totvs.com/hc/pt-br/articles/360046962694
+- Cadastro Terminais x Estoque: https://centraldeatendimento.totvs.com/hc/pt-br/articles/360047028693
 - Como funciona o CMV: https://centraldeatendimento.totvs.com/hc/pt-br/articles/23396555599255
 - Conciliação de Caixa: https://centraldeatendimento.totvs.com/hc/pt-br/articles/360038227674
 - Entrada manual no Livro Caixa / Contas a pagar: https://centraldeatendimento.totvs.com/hc/pt-br/articles/360044588634
@@ -70,9 +72,18 @@ divergência, vale o TDN (documentação oficial TOTVS).
 
 ## Novidades mensais (produtos.totvs.com)
 
-- Março/2024: https://produtos.totvs.com/food-service-linha-chef/varejo/linha-chef-em-marco-de-2024/
-- Novembro/2024: https://produtos.totvs.com/food-service-linha-chef/varejo/linha-chef-em-novembro-de-2024/
+- Janeiro/2023: https://produtos.totvs.com/food-service-linha-chef/varejo/linha-chef-em-janeiro-de-2023/
 - Agosto/2023: https://produtos.totvs.com/food-service-linha-chef/varejo/linha-chef-em-agosto-de-2023/
+- Março/2024: https://produtos.totvs.com/food-service-linha-chef/varejo/linha-chef-em-marco-de-2024/
+- Novembro/2024: https://produtos.totvs.com/food-service-linha-chef/varejo/linha-chef-em-novembro-de-2024/ (último post da série; novidades posteriores estão no TDN)
+
+## TDN — releases da retaguarda (Chef Web)
+
+- Inovação CW 3.2310.0001 (out/2023): https://tdn.totvs.com/pages/releaseview.action?pageId=789404600
+- Manutenção CW 3.2407.0001 (jul/2024): https://tdn.totvs.com/pages/releaseview.action?pageId=849084475
+- Manutenção CW 3.2410.0002 (out/2024): https://tdn.totvs.com/pages/viewpage.action?pageId=874184982
+- Linha 2.x: Release 2.23.00, Manutenção 2.36.00 (pageId=454850887), Inovação CW 2.43.00 (pageId=556383329), Manutenção CW 2.49.00 (pageId=607327768)
+- Descontinuação do produto "TOTVS Food Service" (produto distinto, sem "Linha Chef"): https://centraldeatendimento.totvs.com/hc/pt-br/articles/33804957136791
 
 > **Nota de qualidade**: este material foi compilado por pesquisa automatizada
 > em fontes públicas. Detalhes de versão, números de relatório e nomes de
